@@ -1,4 +1,4 @@
-## chi sono : 
+## chi sono ? : 
 
 > Ciao, sono *Anas* dalla Libia (`l'Emirato di Cirenaica`). Sono un programmatore di applicazioni *spesso open source*,
 > Sono bravo a trattare con `python`, `php` e attualmente sto imparando `C++` e spero di padroneggiarlo 🙂
